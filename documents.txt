@@ -1,0 +1,55 @@
+to open jupyter notebook - in Anaconda 
+(jupyter notebook)
+
+to active tensorflow - conda activate tf
+
+single shot multi-box detector (SSD) 
+
+Tensorflow is a ML framework or libraray
+
+It is free and open source.
+it is used in ML applications such 
+as neural network.
+
+Keras is an open-source software library that provides a Python interface
+  for artificial neural networks. Keras acts as an interface for the 
+  TensorFlow library.
+
+The TFRecord format is a simple format for storing a sequence of binary records. Converting your data into TFRecord has many advantages, such as: More efficient storage: the TFRecord data can take up less space than the original data; it can also be partitioned into multiple files.
+
+“In computing, configuration files (or config files) are files used to configure(arrange) the parameters and initial settings for some computer programs. They are used for user applications, server processes, and operating system settings.”
+
+What Is a Modeling Pipeline? 
+A machine learning pipeline is the end-to-end construct that orchestrates(plan) the flow of data into, and output from, a machine learning model
+It includes raw data input, features, outputs, the machine learning model and model parameters, and prediction outputs.
+
+
+NumPy is a library for the Python programming language, adding support for 
+large, multi-dimensional arrays and matrices, along with a large collection 
+of high-level mathematical functions to operate on arrays.
+
+OpenCV(computer vision)-Python is a library of Python bindings designed to solve computer vision problems. cv2. 
+imshow() method is used to display an image in a window. The window automatically fits to the image size.
+
+A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
+
+Transfer learning is a machine learning technique where a model trained on one task is re-purposed on a second related task.
+
+Config_util -> A simple way to declare and resolve command line arguments, configuration files, and environment variables.
+
+
+Protocol Buffers (Protobuf) is a free and open-source cross-platform data format used to serialize structured data. It is useful in developing programs to communicate with each other over a network or for storing data.
+text-formate -> Convert protobuf message to text format.
+
+Serialization is the process of converting a data object into a series of bytes that saves the state of the object in an easily transmittable form.
+
+the read() method. This method returns a tuple where the first element is a boolean that indicates whether a frame has been grabbed or not. The second element is the next video frame. 
+
+tensor -> a mathematical object analogous to but more general than a vector,
+
+What does batch size mean?
+Batch size is a term used in machine learning and refers to the number of training examples utilized in one iteration.
+
+CheckPoints -> they are essentially the things which one uses to save the current state of the model so that one can pick up from where they left.
+
+Activation function defines how weighted sum of the input is transformed to output.
